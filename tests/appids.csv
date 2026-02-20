@@ -1,0 +1,21 @@
+PAGE,SECTION,APP ID,APP DESC,T CODE,ROLE
+,,,,,OHD Senior Accountant + Acccounting Manager
+Financial Reporting,Cost Center,KSBP,Cost Centers: Plan Line Items,KSBP,Display
+Financial Reporting,Cost Center,ZKSB1,CCA:Actual Lines Archive Source,ZKSB1,Display
+Financial Reporting,Cost Center,GR55,Execute Report Group,GR55,Display
+Financial Reporting,P&L and BS,W0081,Cost Centers - Plan/Actual,S_ALR_87013611,Display
+Financial Reporting,Cost Center,F4023,Display Line Items - Cost Accounting,KOB1,Display
+Financial Reporting,Cost Center,F4023,Display Line Items - Cost Accounting,KSB5,Display
+Financial Reporting,Cost Center,F4023,Display Line Items - Cost Accounting,KSB1,Display
+Financial Reporting,P&L and BS,ZPC7000,Profit Center Balance Sheet,ZPC7000,Display
+Financial Reporting,P&L and BS,ZPC7000C,Profit Center Balance Sheet,ZPC7000C,Display
+Financial Reporting,P&L and BS,ZPC7001,Plan/lst Bilanzkonten Profit Center,ZPC7001,Display
+Financial Reporting,P&L and BS,ZPC7001C,Profit Center P& L,ZPC7001C,Display
+Financial Reporting,P&L and BS,W0161,Balance Sheet/Income Statement - Multidimensional,S_ALR_87012284,Display
+Financial Reporting,P&L and BS,F0996,Trial Balance,S_ALR_87013336,Display
+Financial Reporting,P&L and BS,KE30,Execute Profitability Report,KE30,Display
+Financial Reporting,P&L and BS,KE80,EC-PCA: Execute Drill-Down Report,KE80,Display
+Financial Reporting,P&L and BS,F4023,Display Line Items - Cost Accounting,KE5Z,Display
+Financial Reporting,P&L and BS,W0079,Profit Centers - Plan/Actual,S_ALR_87013326,Display
+Financial Reporting,P&L and BS,F0958,Profit & Loss - Actuals,New App F0958,Display
+Financial Reporting,P&L and BS,F1710,Profit & Loss - Plan/Actuals,New App F1710,Display
